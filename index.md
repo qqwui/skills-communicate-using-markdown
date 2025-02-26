@@ -19,3 +19,8 @@ float Q_rsqrt( float number )
 	return y;
 }
 ```
+
+- [x] it's a beautiful day outside.
+- [x] birds are singing, flowers are blooming...
+- [x] on days like these, kids like you...
+- [ ] Should be burning in hell.
